@@ -1,0 +1,6 @@
+keras==2.3.0
+tensorflow==2.0
+pandas==0.25.3
+Pillow==6.2.1
+scikit-learn
+matplotlib
