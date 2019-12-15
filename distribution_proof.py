@@ -2,7 +2,7 @@
 # the chances of choosing said class are simply 1/n where n
 # is the number of classes.
 
-# It acts as proof that my 30% accuracy in my regulard classification
+# It acts as proof that my 30% accuracy in my regular classification
 # is, indeed, better than guessing.
 
 from random import randint
