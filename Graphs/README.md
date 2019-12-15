@@ -1,1 +1,1 @@
-These are the graphs that I couldn't fit into my report (so I could include cat pictures).
+These are the graphs that I couldn't fit into my report (so I could include cat pictures). "Binary" indicates that these graphs were made by the binary classification model, and "Class" indicated that the graphs were made by the 6 class model. 
