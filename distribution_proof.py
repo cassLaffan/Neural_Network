@@ -47,4 +47,4 @@ for _ in range(0, 100000):
     if chosen_class == actual_class:
         correct_guesses += 1
 
-print(float(correct_guesses) / float(number_guesses))
+print(100 * (float(correct_guesses) / float(number_guesses)))
